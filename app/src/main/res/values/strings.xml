@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlideDetector Example</string>
+    <string name="tab_horizontal">Horizontal</string>
+    <string name="tab_vertical">Vertical</string>
+    <string name="tab_any">Any</string>
+    <string name="view_text">Try moving me!</string>
+</resources>
