@@ -1,5 +1,5 @@
 # SlideDetector
-An simple library that detects when a finger slides on a view
+A simple library that detects when a finger slides on a view
 
 # Obligatory demo
 <img height="400" alt="Demo gif" src="https://raw.githubusercontent.com/GregoryConrad/SlideDetector/master/demo.gif">
